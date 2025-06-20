@@ -1,0 +1,1 @@
+exports.PalesCo = require('./PalesCo/palesco');

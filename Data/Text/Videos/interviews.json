@@ -1,0 +1,201 @@
+{
+  "vid1": {
+    "title": "مقابلات مع فلسطينين",
+    "description": "اختر من المحافظات المتوفره.",
+    "vid1_1": {
+      "name": "محافظة بئر سبع",
+      "description": "لايوجد وصف",
+      "vid1_1_1": {
+        "name": "بلدة الباطل",
+        "description": "لا يوجد وصف",
+        "vid1_1_1_1": {
+          "who": "سليمان زبيدات",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": false,
+          "interviewTime": "لا معلومات",
+          "interviewLinks": [
+            "[جزء الاول](https://youtu.be/cy59p8tY7oE)",
+            "[جزء تاني](https://youtu.be/s8cp0YgYFc4)"
+          ],
+          "source": ""
+        }
+      },
+      "vid1_1_2": {
+        "name": "بلدة بئر سبع",
+        "description": "لا يوجد وصف",
+        "vid1_1_2_1": {
+          "who": "مسلم وجيه بسيسو",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": true,
+          "image": "Data/Picture/interviews/مسلم وجيه بسيسو.jpg",
+          "interviewTime": "لا معلومات",
+          "interviewLinks": [
+            "[المقابلة](https://youtu.be/jiSp_jDTkVk?list=PL896FEC8FF0B8BF0B)"
+          ],
+          "source": ""
+        },
+        "vid1_1_2_2": {
+          "who": "عطا الوحيدي",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": false,
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[الجزء الاول](https://youtu.be/MCz2PpdMei8)","[الجزء التاني](https://youtu.be/KDiWF9HTtXw)"],
+          "source": ""
+        },
+        "vid1_1_2_3": {
+          "who": "حسان ومحمد أبو جرار",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": false,
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[الجزء الاول](https://youtu.be/zi6Rd-uFeaI)","[الجزء التاني](https://youtu.be/eQpbBJs6wQI)"],
+          "source": ""
+        },
+        "vid1_1_2_4": {
+          "who": "عبد المجيد أبو سعيد",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": true,
+          "image": "Data/Picture/interviews/عبد المجيد أبو سعيد.jpg",
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[المقابلة](https://youtu.be/F3WxjZmXSrs)"],
+          "source": ""
+        },
+        "vid1_1_2_5": {
+          "who": "فرح أبو محفوظ",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": true,
+          "image": "Data/Picture/interviews/فرح أبو محفوظ.jpg",
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[المقابلة](https://youtu.be/Qye7d1hg6S0)"],
+          "source": ""
+        },
+        "vid1_1_2_6": {
+          "who": "محمد وسليمان الجمرة",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": true,
+          "image": "Data/Picture/interviews/محمد وسليمان الجمرة.jpg",
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[المقابلة](https://youtu.be/NYsWq0i1DP0)"],
+          "source": ""
+        },
+        "vid1_1_2_7": {
+          "who": "إبراهيم الدقس",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": false,
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[الجزء الاول](https://youtu.be/BOp-iUnG7Hk)","[الجزء الثاني](https://youtu.be/wdJR6exMj-E)"],
+          "source": ""
+        },
+        "vid1_1_2_8": {
+          "who": "محمد أبو فرحان",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": true,
+          "image": "Data/Picture/interviews/محمد أبو فرحان.jpg",
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[المقابلة](https://youtu.be/glxmZfr87ls)"],
+          "source": ""
+        },
+        "vid1_1_2_9": {
+          "who": "محمد أبو رواع",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": true,
+          "image": "Data/Picture/interviews/محمد أبو رواع.jpg",
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[المقابلة](https://youtu.be/RAbvdSlY19Q?list=PLB55D8DB5F73DCA76)"],
+          "source": ""
+        },
+        "vid1_1_2_10": {
+          "who": "عبدالله السلايمه",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": true,
+          "image": "Data/Picture/interviews/عبدالله السلايمه.jpg",
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[المقابلة](https://youtu.be/DU-FZy1wwcg)"],
+          "source": ""
+        },
+        "vid1_1_2_11": {
+          "who": "واصل أبو جابر/جبارات",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": false,
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[الجزء الاول](https://youtu.be/8izz4YQwJf8)","[الجزء التاني](https://youtu.be/5ZBTOKhEeig)"],
+          "source": ""
+        },
+        "vid1_1_2_12": {
+          "who": "إبراهيم أبو الخير",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": true,
+          "image": "Data/Picture/interviews/إبراهيم أبو الخير.jpg",
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[المقابلة](https://youtu.be/QoBfZyPXgkQ)"],
+          "source": ""
+        },
+        "vid1_1_2_13": {
+          "who": "سليمان محمد مسامح ابو مسامح",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": true,
+          "image": "Data/Picture/interviews/سليمان محمد مسامح ابو مسامح.jpg",
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[المقابلة](https://youtu.be/485a5recQq0)"],
+          "source": ""
+        }
+      }
+    },
+    "vid1_2": {
+      "name": "محافظة بيسان",
+      "description": "لا يوجد وصف",
+      "vid1_2_1": {
+        "name": "البلدة عرب البواطي",
+        "description": "لا يوجد وصف",
+        "vid1_2_1_1": {
+          "who": "محمد البواطي",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": false,
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[جزء الاول](https://youtu.be/NdVTQOomUXk)","[جزء تاني](https://youtu.be/wbhw-V7Prow)"],
+          "source": ""
+        },
+        "vid1_2_1_2": {
+          "who": "إبراهيم محمد البواطي",
+          "doTheInterview": "لا معلومات",
+          "date": "لا معلومات",
+          "interviewDate": "لا معلومات",
+          "hasImage": true,
+          "image": "Data/Picture/interviews/إبراهيم محمد البواطي.jpg",
+          "interviewTime": "لا معلومات",
+          "interviewLinks": ["[المقابلة](https://youtu.be/3XP3rD3brXk?list=PL39F4BC6ED0F68F54)"],
+          "source": ""
+        }
+      }
+    }
+  }
+}
