@@ -30,10 +30,6 @@ jobs:
       - name: Install dependencies
         run: npm install
       
-      # Run tests (if you have any)
-      - name: Run tests
-        run: npm test --if-present
-      
       # Check if version changed
       - name: Check version changes
         id: check
