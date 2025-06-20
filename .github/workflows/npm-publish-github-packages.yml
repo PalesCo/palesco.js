@@ -51,14 +51,3 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
       
-      # Create GitHub release
-      - name: Create GitHub Release
-        if: steps.check.outputs.version-changed == 'true'
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: v${{ steps.check.outputs.package-version }}
-          release_name: Release v${{ steps.check.outputs.package-version }}
-          draft: false
-          prerelease: false
