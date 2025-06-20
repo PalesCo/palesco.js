@@ -1,6 +1,6 @@
 {
   "name": "palesco.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is palesco data,function and all thing palesco command need to work.",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": ["palesco","PalesCo",""],
   "author": "discord: dz0.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PalesCo/palesco.js.git"
+  },
   "dependencies": {
     "@types/node": "^18.0.6",
     "chalk": "^4.1.2",
