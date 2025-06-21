@@ -1,6 +1,6 @@
 {
   "name": "palesco.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is palesco data,function and all thing palesco command need to work.",
   "main": "index.js",
   "scripts": {

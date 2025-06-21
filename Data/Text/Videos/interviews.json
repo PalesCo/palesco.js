@@ -10,16 +10,16 @@
         "description": "لا يوجد وصف",
         "vid1_1_1_1": {
           "who": "سليمان زبيدات",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "سعيد عجّاوي",
+          "date": "1927",
+          "interviewDate": "194 دقيقة",
           "hasImage": false,
-          "interviewTime": "لا معلومات",
+          "interviewTime": "آذار 13، 2007",
           "interviewLinks": [
             "[جزء الاول](https://youtu.be/cy59p8tY7oE)",
             "[جزء تاني](https://youtu.be/s8cp0YgYFc4)"
           ],
-          "source": ""
+          "source": "https://www.palestineremembered.com/GeoPoints/al_Batel_1002/ar/Article_2227.html"
         }
       },
       "vid1_1_2": {
@@ -27,144 +27,155 @@
         "description": "لا يوجد وصف",
         "vid1_1_2_1": {
           "who": "مسلم وجيه بسيسو",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "ركان محمود",
+          "date": "1926",
+          "interviewDate": "أيلول 26، 2011",
           "hasImage": true,
           "image": "Data/Picture/interviews/مسلم وجيه بسيسو.jpg",
-          "interviewTime": "لا معلومات",
+          "interviewTime": "646 دقيقة",
           "interviewLinks": [
             "[المقابلة](https://youtu.be/jiSp_jDTkVk?list=PL896FEC8FF0B8BF0B)"
           ],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story20828.html"
         },
         "vid1_1_2_2": {
           "who": "عطا الوحيدي",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "فواز سلامه و ع. دنديس",
+          "date": "1924",
+          "interviewDate": "آذار 20، 2005",
           "hasImage": false,
-          "interviewTime": "لا معلومات",
+          "interviewTime": "240+ دقيقة",
           "interviewLinks": ["[الجزء الاول](https://youtu.be/MCz2PpdMei8)","[الجزء التاني](https://youtu.be/KDiWF9HTtXw)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1576.html"
         },
         "vid1_1_2_3": {
           "who": "حسان ومحمد أبو جرار",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "فوّاز سلامه",
+          "date": "1957, 1936",
+          "interviewDate": "كانون ثاني 11، 2006",
           "hasImage": false,
-          "interviewTime": "لا معلومات",
+          "interviewTime": "330+ دقيقة",
           "interviewLinks": ["[الجزء الاول](https://youtu.be/zi6Rd-uFeaI)","[الجزء التاني](https://youtu.be/eQpbBJs6wQI)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1681.html"
         },
         "vid1_1_2_4": {
           "who": "عبد المجيد أبو سعيد",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "فوّاز سلامه",
+          "date": "1927",
+          "interviewDate": "كانون ثاني 6، 2006",
           "hasImage": true,
           "image": "Data/Picture/interviews/عبد المجيد أبو سعيد.jpg",
-          "interviewTime": "لا معلومات",
+          "interviewTime": "240+ دقيقة",
           "interviewLinks": ["[المقابلة](https://youtu.be/F3WxjZmXSrs)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1682.html"
         },
         "vid1_1_2_5": {
           "who": "فرح أبو محفوظ",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "فوّاز سلامه",
+          "date": "1917",
+          "interviewDate": "تشرين ثاني 28، 2005",
           "hasImage": true,
           "image": "Data/Picture/interviews/فرح أبو محفوظ.jpg",
-          "interviewTime": "لا معلومات",
+          "interviewTime": "150+ دقيقة",
           "interviewLinks": ["[المقابلة](https://youtu.be/Qye7d1hg6S0)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1683.html"
         },
         "vid1_1_2_6": {
           "who": "محمد وسليمان الجمرة",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "فوّاز سلامه , ركان محمود" ,
+          "date": "1934, 1925",
+          "interviewDate": "آذار 29، 2006",
           "hasImage": true,
           "image": "Data/Picture/interviews/محمد وسليمان الجمرة.jpg",
-          "interviewTime": "لا معلومات",
+          "interviewTime": "195 دقيقة",
           "interviewLinks": ["[المقابلة](https://youtu.be/NYsWq0i1DP0)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1736.html"
         },
         "vid1_1_2_7": {
           "who": "إبراهيم الدقس",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "فوّاز سلامه",
+          "date": "1932",
+          "interviewDate": "تموز 17، 2006",
           "hasImage": false,
-          "interviewTime": "لا معلومات",
+          "interviewTime": "320+ دقيقة",
           "interviewLinks": ["[الجزء الاول](https://youtu.be/BOp-iUnG7Hk)","[الجزء الثاني](https://youtu.be/wdJR6exMj-E)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1814.html"
         },
         "vid1_1_2_8": {
           "who": "محمد أبو فرحان",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "سعيد عجّاوي و ركان محمود",
+          "date": "1935",
+          "interviewDate": "آب 17، 2006",
           "hasImage": true,
           "image": "Data/Picture/interviews/محمد أبو فرحان.jpg",
-          "interviewTime": "لا معلومات",
+          "interviewTime": "144+ دقيقة",
           "interviewLinks": ["[المقابلة](https://youtu.be/glxmZfr87ls)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1850.html"
         },
         "vid1_1_2_9": {
           "who": "محمد أبو رواع",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "فوّاز سلامه",
+          "date": "1927",
+          "interviewDate": "آب 7، 2006",
           "hasImage": true,
           "image": "Data/Picture/interviews/محمد أبو رواع.jpg",
-          "interviewTime": "لا معلومات",
+          "interviewTime": "152+ دقيقة",
           "interviewLinks": ["[المقابلة](https://youtu.be/RAbvdSlY19Q?list=PLB55D8DB5F73DCA76)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1851.html"
         },
         "vid1_1_2_10": {
           "who": "عبدالله السلايمه",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "سعيد عجّاوي و ركان محمود",
+          "date": "1925",
+          "interviewDate": "آب 9، 2006",
           "hasImage": true,
           "image": "Data/Picture/interviews/عبدالله السلايمه.jpg",
-          "interviewTime": "لا معلومات",
+          "interviewTime": "200+ دقيقة",
           "interviewLinks": ["[المقابلة](https://youtu.be/DU-FZy1wwcg)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1852.html"
         },
         "vid1_1_2_11": {
           "who": "واصل أبو جابر/جبارات",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "فوّاز سلامه",
+          "date": "1920",
+          "interviewDate": "تشرين ثاني 16، 2006",
           "hasImage": false,
-          "interviewTime": "لا معلومات",
+          "interviewTime": "223 دقيقة",
           "interviewLinks": ["[الجزء الاول](https://youtu.be/8izz4YQwJf8)","[الجزء التاني](https://youtu.be/5ZBTOKhEeig)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story2016.html"
         },
         "vid1_1_2_12": {
           "who": "إبراهيم أبو الخير",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "سعيد عجّاوي",
+          "date": "1922",
+          "interviewDate": "كانون ثاني 9، 2007",
           "hasImage": true,
           "image": "Data/Picture/interviews/إبراهيم أبو الخير.jpg",
-          "interviewTime": "لا معلومات",
+          "interviewTime": "111 دقيقة",
           "interviewLinks": ["[المقابلة](https://youtu.be/QoBfZyPXgkQ)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story2080.html"
         },
         "vid1_1_2_13": {
           "who": "سليمان محمد مسامح ابو مسامح",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
+          "doTheInterview": "سعيد عجّاوي",
+          "date": "1930",
+          "interviewDate": "تشرين أول 23، 2007",
           "hasImage": true,
           "image": "Data/Picture/interviews/سليمان محمد مسامح ابو مسامح.jpg",
-          "interviewTime": "لا معلومات",
+          "interviewTime": "156 دقيقة",
           "interviewLinks": ["[المقابلة](https://youtu.be/485a5recQq0)"],
-          "source": ""
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story8190.html"
+        },
+        "vid1_1_2_14": {
+          "who": "عطية ابو صيام",
+          "doTheInterview": "سعيد عجّاوي",
+          "date": "1934",
+          "interviewDate": "نيسان 26، 2007",
+          "hasImage": true,
+          "image": "Data/Picture/interviews/عطية ابو صيام.jpg",
+          "interviewTime": "224 دقيقة",
+          "interviewLinks": ["[المقابلة](https://youtu.be/ovNhreEucNY)"],
+          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story2619.html"
         }
       }
     },
