@@ -45,10 +45,25 @@ jobs:
             echo "version-changed=false" >> $GITHUB_OUTPUT
           fi
       
+      # إنشاء ملف .npmignore لاستبعاد الملفات المحددة
+      - name: Create .npmignore file
+        if: steps.check.outputs.version-changed == 'true'
+        run: |
+          cat << EOF > .npmignore
+          # استبعاد الملفات المطلوبة
+          README.md
+          docs/
+          .gitignore
+          .vscode/
+          
+          # يمكنك إضافة ملفات أخرى هنا
+          # مثال: tests/
+          EOF
+        shell: bash
+      
       # Publish to npm if version changed
       - name: Publish to npm
         if: steps.check.outputs.version-changed == 'true'
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-      
