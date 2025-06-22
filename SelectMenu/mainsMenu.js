@@ -4,12 +4,6 @@ const mainSelect = new MessageSelectMenu()
     .setCustomId("main")
     .setPlaceholder("اختر شئ عن فلسطين")
     .setOptions([
-      /**{
-        label: "النكبة",
-        value: "nakba",
-        description: "معلومات عن النكبة الفلسطينية",
-        //emoji: "📜",
-      },*/ //هحطها ف التاريخ
       {
         label: "تاريخ فلسطين",
         value: "history",
@@ -32,6 +26,12 @@ const mainSelect = new MessageSelectMenu()
         label: "مقاطع فيديو",
         value: "videos",
         description: "وثائقي , يوتيوب فيديو, افلام , مقابلات.",
+        //emoji: "📜",
+      },
+      {
+        label: "صور فلسطين",
+        value: "videos",
+        description: "السجل المجمع من صور فسطين في جميع عصورها",
         //emoji: "📜",
       },
       {
@@ -59,9 +59,9 @@ const historySelect =   new MessageSelectMenu()
         //emoji: "📜",
       },
       {
-        label: "المجازر عبر التاريخ الفلسطيني",
+        label: "مجازر القري",
         value: "hi2",
-        description: "المجازر التي قام بها الصهاينة علي الشعب الفلسطيني",
+        description: "جميع المجازر الذي ارتكبها الكيان الصهيوني في فلسطين",
         //emoji: "📜",
       },
       {
@@ -91,10 +91,7 @@ const videosSelect =   new MessageSelectMenu()
         emoji: "🔙",
       },
     ])
-const videos = new MessageActionRow().setComponents(
-
-
-);
+const videos = new MessageActionRow().setComponents(videosSelect);
 
 
 module.exports = {

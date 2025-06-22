@@ -1,56 +1,25 @@
 //#region SelectMenu Data
 import {
-  mainSelect,
-  historySelect,
-  videosSelect,
-} from "../SelectMenu/mainsMenu";
-import { hi1Select } from "../SelectMenu/historyMenu";
-import { vid1_1Select,vid1_1_1Select,vid1_1_2Select } from "../SelectMenu/interviews/vid1_1";
-import { EmbedFieldData, MessageActionRow, MessageAttachment, User } from "discord.js";
-import { vid1Select } from "../SelectMenu/videosMenu";
-import { vid1_2_1Select, vid1_2Select } from "../SelectMenu/interviews/vid1_2";
-//Main
-const vMain = mainSelect.options.map((s) => s.value);
-const vMainHistory = historySelect.options.map((s) => s.value);
-const vMainVideos = videosSelect.options.map((s) => s.value);
-type valuesMain = typeof vMain;
-type valuesMainHistory = typeof vMainHistory;
-type valuesMainVideos = typeof vMainVideos;
-
-//History
-const vHistory1 = hi1Select.options.map((s) => s.value);
-type valuesHistory1 = typeof vHistory1;
-
-//Videos
-const vVid1 = vid1Select.options.map((s) => s.value);
-type valuesVid1 = typeof vVid1;
-//
-const vVid1_1 = vid1_1Select.options.map((s) => s.value);
-const vVid1_1_1 = vid1_1_1Select.options.map((s) => s.value);
-const vVid1_1_2 = vid1_1_2Select.options.map((s) => s.value);
-type valuesVid1_1 = typeof vVid1_1;
-type valuesVid1_1_1 = typeof vVid1_1_1;
-type valuesVid1_1_2 = typeof vVid1_1_2;
-//
-const vVid1_2 = vid1_2Select.options.map((s) => s.value);
-const vVid1_2_1 = vid1_2_1Select.options.map((s) => s.value);
-type valuesVid1_2 = typeof vVid1_2;
-type valuesVid1_2_1 = typeof vVid1_2_1;
+  EmbedFieldData,
+  MessageActionRow,
+  MessageAttachment,
+  User,
+} from "discord.js";
 
 export interface GetSelectMenuInterface {
-  row:MessageActionRow[];
-  customId:string;
-  values:string[];
+  row: MessageActionRow[];
+  customId: string;
+  values: string[];
 }
 export interface SelectMenuData {
   /**
    * By this function you can get select menu by customId
    */
-  getSelectMenu(text:string): {
-    row:MessageActionRow[];
-    customId:string;
-    values:string[];
-  }
+  getSelectMenu(text: string): {
+    row: MessageActionRow[];
+    customId: string;
+    values: string[];
+  };
   /** 
   - All **main** SelectMenu's
   */
@@ -60,7 +29,7 @@ export interface SelectMenuData {
     */
     main: {
       row: MessageActionRow[];
-      values: valuesMain;
+      values: string[];
       customId: string;
     };
     /** 
@@ -68,7 +37,7 @@ export interface SelectMenuData {
     */
     history: {
       row: MessageActionRow[];
-      values: valuesMainHistory;
+      values: string[];
       customId: string;
     };
     /** 
@@ -76,7 +45,7 @@ export interface SelectMenuData {
     */
     videos: {
       row: MessageActionRow[];
-      values: valuesMainVideos;
+      values: string[];
       customId: string;
     };
   };
@@ -89,7 +58,15 @@ export interface SelectMenuData {
      */
     hi1: {
       row: MessageActionRow[];
-      value: valuesHistory1;
+      value: string[];
+      customId: string;
+    };
+    /**
+    - History Chapter 2 **'مجازر القري'**
+     */
+    hi2: {
+      row: MessageActionRow[];
+      value: string[];
       customId: string;
     };
   };
@@ -103,29 +80,29 @@ export interface SelectMenuData {
      */
     vid1: {
       row: MessageActionRow[];
-      values: valuesVid1;
+      values: string[];
       customId: string;
       /**
     - Videos Chapter 1.1 **'مقابلات - محافظة بئر سبع'**
        */
-    vid1_1: {
-      row: MessageActionRow[];
-      values: valuesVid1_1;
-      customId: string;
-      /**
+      vid1_1: {
+        row: MessageActionRow[];
+        values: string[];
+        customId: string;
+        /**
     - Videos Chapter 1.1.1 **'مقابلات - محافظة بئر سبع - بلدة باطل'**
        */
-    vid1_1_1: {
-      row: MessageActionRow[];
-      values: valuesVid1_1_1;
-      customId: string;
-    };
-    /**
+        vid1_1_1: {
+          row: MessageActionRow[];
+          values: string[];
+          customId: string;
+        };
+        /**
   - Videos Chapter 1.1.2 **'مقابلات - محافظة بئر سبع - بلدة بئر سبع'**
      */
         vid1_1_2: {
           row: MessageActionRow[];
-          values: valuesVid1_1_2;
+          values: string[];
           customId: string;
         };
       };
@@ -134,11 +111,11 @@ export interface SelectMenuData {
        */
       vid1_2: {
         row: MessageActionRow[];
-        values: valuesVid1_2;
+        values: string[];
         customId: string;
         vid1_2_1: {
           row: MessageActionRow[];
-          values: valuesVid1_2_1;
+          values: string[];
           customId: string;
         };
       };
@@ -147,86 +124,123 @@ export interface SelectMenuData {
 }
 //#endregion
 
-
 //#region JSON Data
 
 export interface JSONData {
-  colors:string;
-  embed:{
-    main:{
-      footer:string
-    }
-  },
-  info:{
-    date:string
-  }
+  colors: string;
+  embed: {
+    main: {
+      footer: string;
+    };
+  };
+  info: {
+    date: string;
+  };
 }
 //#endregion
-
-
-
-
-
 
 //#region Embed Data
 import { MessageEmbed } from "discord.js";
-type EmbedType = 'Interviews' | 'Town' | 'Governorate';
+type EmbedType = "Interviews" | "Town" | "Governorate";
 type DataAll = {
-  who?:string,
-  gov?:string,
-  townV?:string
+  who?: string;
+  gov?: string;
+  townV?: string;
 };
-type ObjectA = {
-value:{
-  description:string;
-  title:string;
-  fields:EmbedFieldData[] | EmbedFieldData[][]
-}
-}
+export type EmbedOptions = {
+
+    description: string;
+    title: string;
+    fields: EmbedFieldData[] | EmbedFieldData[][];
+  
+};
 export interface EmbedData {
-mains:{
-  main:MessageEmbed;
-  history: MessageEmbed;
-  videos: MessageEmbed;
-};
-videos:{
-  /**
-   * This is Embed of **'مقابلات'**
-   */
-  vid1:MessageEmbed;
-}
-history:{
-  /**
-   * This is Embed of **'قبل الميلاد'**
-   */
-  hi1:MessageEmbed;
-}
-interviewEmbed(embedType:EmbedType, data:DataAll, user:User): {
-  embed: MessageEmbed;
-  status: 'good' | 'fail';
-  image?: MessageAttachment;
-  imagePath?: string;
-}
-embedCreateByObjAndValue(object:ObjectA,value:string,user:User): MessageEmbed
+  mains: {
+    main: MessageEmbed;
+    history: MessageEmbed;
+    videos: MessageEmbed;
+  };
+  videos: {
+    /**
+     * This is Embed of **'مقابلات'**
+     */
+    vid1: MessageEmbed;
+  };
+  history: {
+    /**
+     * This is Embed of **'قبل الميلاد'**
+     */
+    hi1: MessageEmbed;
+  };
+  interviewEmbed(
+    embedType: EmbedType,
+    data: DataAll,
+    user: User
+  ): {
+    embed: MessageEmbed;
+    status: "good" | "fail";
+    image?: MessageAttachment;
+    imagePath?: string;
+  };
+  createEmbedByData(
+    data: EmbedOptions,
+    user: User
+  ): MessageEmbed;
 }
 //#endregion
 
-
-
-
-
-
 //#region Arm
-type ArmStatus = "good" | "fail-data" | "fail-customId" | "fail-dataTown"
+type ArmStatus = "good" | "fail-data" | "fail-customId" | "fail-dataTown";
 export interface ArmInterface {
   embeds: MessageEmbed[];
-  status:ArmStatus;
-  components?: MessageActionRow[];
-  files?: [{
-    attachment:string,
-    name:string
-  }];
-  ephemeral?: boolean;
+  status: ArmStatus;
+  components: MessageActionRow[];
+  files: [
+    | {
+        attachment: string;
+        name: string;
+      }
+    | undefined
+  ];
+  ephemeral: boolean;
+}
+export interface CustomId {
+  data: {
+    isValid: boolean;
+    error?: string;
+    prefix: string;
+    segments: string[];
+    fullId: string;
+    totalSegments: number;
+  };
+  interview?:{
+    type: string;
+    governorate: string | null;
+    town: string | null;
+    who: string | null;
+  };
+  isID(id: string): boolean;
+}
+//#endregion
 
+//#region Util
+type Time = number;
+export interface Timetamps {
+  /**=> 2 May 2000 12:00*/
+  DEFAULT: `<t:${Time}>`;
+  /**=> 05/02/2000*/
+  SHORT_DATE: `<t:${Time}:d>`;
+  /**=> May 2, 2000*/
+  LONG_DATE: `<t:${Time}:D>`;
+  /**=> 12:00 PM*/
+  SHORT_TIME: `<t:${Time}:t>`;
+  /**=> 12:00:00 PM*/
+  LONG_TIME: `<t:${Time}:T>`;
+  /**=> May 2, 2000 12:00 PM*/
+  FULL: `<t:${Time}:f>`;
+  /**=> Tuesday, May 2, 2000 12:00 PM*/
+  FULL_WITH_WEEKDAY: `<t:${Time}:F>`;
+  /**=> 25 years ago*/
+  RELATIVE: `<t:${Time}:R>`;
 }
 //#endregion

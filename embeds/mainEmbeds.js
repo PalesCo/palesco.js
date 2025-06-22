@@ -26,6 +26,16 @@ const hi1Embed = new MessageEmbed()
   .setDescription("خمس فقرات و سادسها هو المصادر.")
   .setColor(colors)
   .setFooter(main.footer);
+const hi2Embed = new MessageEmbed()
+  .setTitle("مجازر القري")
+  .setDescription("جميع مجازر التي قام بها الكيان خلال فترة النكبة و مابعد النكبة.")
+  .setColor(colors)
+  .setFooter(main.footer);
+const hi2WarningEmbed = new MessageEmbed()
+  .setTitle("تحذير")
+  .setDescription("هذا الاختيار يتضمن مقالات تحتوي علي كلام غير مناسب و قاسي. بمجرد الضغط علي 'موافق' هذا يعني لاشئ اقرا فحسب ماحدث لاخوانن في فلسطين قبل النكبة وبعد.")
+  .setColor(colors)
+  .setFooter(main.footer);
 const vid1Embed = new MessageEmbed()
   .setTitle("مقابلات")
   .setDescription(
@@ -34,4 +44,6 @@ const vid1Embed = new MessageEmbed()
   .setColor(colors)
   .setFooter(main.footer);
 
-module.exports = { mainEmbed, historyEmbed, hi1Embed, videosEmbed, vid1Embed };
+module.exports = { mainEmbed,
+   historyEmbed, hi1Embed, hi2Embed, hi2WarningEmbed,
+    videosEmbed, vid1Embed };

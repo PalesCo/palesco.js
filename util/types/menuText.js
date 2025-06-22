@@ -1,4 +1,4 @@
-const { hi1, hi1Select } = require("../../SelectMenu/historyMenu");
+const { hi1, hi1Select, hi2, hi2Select } = require("../../SelectMenu/historyMenu");
 const {
   vid1_1,
   vid1_1_1,
@@ -16,6 +16,7 @@ const menuText = {
     history:[history],
     videos:[videos],
     hi1:[hi1],
+    hi2:[hi2],
     vid1:[vid1],
     vid1_1:[vid1_1],
     vid1_1_1:[vid1_1_1],
@@ -28,6 +29,7 @@ const menuSelect = {
     history:historySelect,
     videos:videosSelect,
     hi1:hi1Select,
+    hi2:hi2Select,
     vid1:vid1Select,
     vid1_1:vid1_1Select,
     vid1_1_1:vid1_1_1Select,

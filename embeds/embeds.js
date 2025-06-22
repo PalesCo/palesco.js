@@ -1,24 +1,22 @@
 const { MessageEmbed, MessageAttachment } = require("discord.js");
 const { main,colors } = require("../JSON/embeds.json");
 const path = require("path");
-const { vid1: obj } = require("../Data/Text/Videos/interviews.json");
 /**
  * @typedef {import("discord.js").User} User
- * @param {string} value
- * @param {object} objs
+ * @param {import('../types/index').EmbedOptions} data 
  * @param {User} user
  */
-function dataEmbed(objs, value, user) {
-  const data = objs[value];
-  if (!data.title | !data.description) {
-    throw new Error("Value is out of data");
-  }
+function dataEmbed(data, user) {
+
   const embed = new MessageEmbed()
   .setAuthor(user.tag, user.avatarURL())
-    .setTitle(data.title)
-    .setDescription(data.description)
-    .setColor(colors)
-    .setFooter({ text: main.footer });
+  .setColor(colors)
+  .setFooter({ text: main.footer });
+  if (!data.title | !data.description) {
+    embed.setTitle("NO TITLE").setDescription("No description")
+  } else {
+    embed.setTitle(data.title).setDescription(data.description)
+  }
     if (data.fields) embed.setFields(data.fields);
     return embed;
   

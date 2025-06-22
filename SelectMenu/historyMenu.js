@@ -53,5 +53,17 @@ const hi1Select = new MessageSelectMenu()
       },
     ]);
 const hi1 = new MessageActionRow().setComponents(hi1Select);
+const hi2Select = new MessageSelectMenu()
+    .setCustomId("hi2")
+    .setPlaceholder("اختر الحدث")
+    .setOptions([
+      {
+        label: "االطنطورة",
+        value: "hi2_1",
+        description: "تاريخ الحدث",
+        //emoji: "📜",
+      },
+    ]);
+const hi2 = new MessageActionRow().setComponents(hi2Select);
 
-module.exports = { hi1,hi1Select };
+module.exports = { hi1,hi1Select,hi2,hi2Select };
