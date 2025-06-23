@@ -1,12 +1,16 @@
 {
   "name": "palesco.js",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "This is palesco data,function and all thing palesco command need to work.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "keywords": ["palesco","PalesCo","discord.js"],
+  "keywords": [
+    "palesco",
+    "PalesCo",
+    "discord.js"
+  ],
   "author": "discord: dz0.",
   "license": "MIT",
   "repository": {
@@ -20,8 +24,10 @@
     "DZAN <idzanyk@gmail.com>"
   ],
   "dependencies": {
+    "discord.js": "^13.17.1"
+  },
+  "devDependencies": {
     "@types/node": "^18.0.6",
-    "discord.js": "^13.17.1",
     "node-fetch": "^3.2.6"
   }
 }

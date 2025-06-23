@@ -10,7 +10,7 @@ const mainSelect = new MessageSelectMenu()
         description: "معلومات عن تاريخ فلسطين",
         //emoji: "📜",
       },
-      {
+      /**{
         label: "ناشطين عن القضيه",
         value: "activists",
         description: "عرض جميع الناشطين عن القضيه",
@@ -21,16 +21,17 @@ const mainSelect = new MessageSelectMenu()
         value: "famous",
         description: "مشاهير تحدثوا عن القضيه",
         //emoji: "📜",
-      },
+      },*/
       {
         label: "مقاطع فيديو",
         value: "videos",
         description: "وثائقي , يوتيوب فيديو, افلام , مقابلات.",
         //emoji: "📜",
       },
+      /** 
       {
         label: "صور فلسطين",
-        value: "videos",
+        value: "image",
         description: "السجل المجمع من صور فسطين في جميع عصورها",
         //emoji: "📜",
       },
@@ -45,7 +46,7 @@ const mainSelect = new MessageSelectMenu()
         value: "lang_numbers",
         description: "فالنعبر باللغه الارقام",
         //emoji: "📜",
-      },
+      },*/
     ]);
 const main = new MessageActionRow().setComponents(mainSelect);
 const historySelect =   new MessageSelectMenu()
