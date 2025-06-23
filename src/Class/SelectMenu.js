@@ -13,27 +13,17 @@ const {
   videosSelect,
   historySelect,
 } = require("../SelectMenu/mainsMenu");
-const { hi1Select,hi2Select } = require("../SelectMenu/historyMenu");
-const {
-  mainEmbed,
-  historyEmbed,
-  hi1Embed,
-  hi2Embed,
-  hi2WarningEmbed,
-  videosEmbed,
-  vid1Embed,
-} = require("../embeds/mainEmbeds");
+const { hi1Select, hi2Select } = require("../SelectMenu/historyMenu");
 const { menuText, menuSelect } = require("../util/types/menuText");
-const { interviewEmbed, dataEmbed } = require("../embeds/embeds");
-
 
 /**
- * THIS IS EMBED AND SELECTMENU: ES
+ * THIS IS SELECTMENU: S
  */
-class ES {
+class SelectMenuPalesCo {
   /**
    * All SelectMenu
    * @returns {import('../types/index').SelectMenuData}
+   * @public
    */
   get selectmenu() {
     const vMain = mainSelect.options.map((s) => s.value);
@@ -49,8 +39,8 @@ class ES {
     const vVid1_1 = vid1_1Select.options.map((s) => s.value);
     const vVid1_2 = vid1_2Select.options.map((s) => s.value);
     const vVid1_1_1 = vid1_1_1Select.options.map((s) => s.value);
-    const vVid1_2_1 = vid1_2_1Select.options.map((s) => s.value);
     const vVid1_1_2 = vid1_1_2Select.options.map((s) => s.value);
+    const vVid1_2_1 = vid1_2_1Select.options.map((s) => s.value);
     return {
       mains: {
         main: {
@@ -117,45 +107,23 @@ class ES {
           },
         },
       },
-      /**
-       * @param {string} text
-       * @returns {import("../types/index").GetSelectMenuInterface}
-       */
-      getSelectMenu(text) {
-        return {
-          row: menuText[text],
-          customId: menuSelect[text].customId,
-          values: menuSelect[text].options.map((s) => s.value),
-        };
-      },
     };
   }
-    /**
-   * All Embed Data
-   * @returns {import("../types/index").EmbedData}
+  /**
+   * @param {string} text
+   * @returns {import("../types/index").GetSelectMenuInterface}
+   * @public
    */
-    get embeds() {
-        return {
-          mains: {
-            main: mainEmbed,
-            history: historyEmbed,
-            videos: videosEmbed,
-          },
-          videos: {
-            vid1: vid1Embed,
-          },
-          history: {
-            hi1: hi1Embed,
-            hi2:hi2Embed,
-            hi2w:hi2WarningEmbed
-          },
-          interviewEmbed(embedType, data, user) {
-            return interviewEmbed(embedType, data, user);
-          },
-          createEmbedByData(data, user) {
-            return dataEmbed(data, user);
-          },
-        };
-      }
+  getSelectMenu(text) {
+    return {
+      row: menuText[text],
+      customId: menuSelect[text].customId,
+      values: menuSelect[text].options.map((s) => s.value),
+    };
+  }
+  /**
+   * @private - Not ready
+   */
+  returnSelectMenu() {}
 }
-module.exports = ES;
+module.exports = SelectMenuPalesCo;

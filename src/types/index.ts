@@ -141,55 +141,34 @@ export interface JSONData {
 
 //#region Embed Data
 import { MessageEmbed } from "discord.js";
-type EmbedType = "Interviews" | "Town" | "Governorate";
-type DataAll = {
+export type EmbedType = "Interviews" | "Town" | "Governorate";
+export type DataAll = {
   who?: string;
   gov?: string;
   townV?: string;
 };
 export type EmbedOptions = {
-
     description: string;
     title: string;
-    fields: EmbedFieldData[] | EmbedFieldData[][];
+    fields?: EmbedFieldData[] | EmbedFieldData[][];
   
 };
-export interface EmbedData {
-  mains: {
-    main: MessageEmbed;
-    history: MessageEmbed;
-    videos: MessageEmbed;
-  };
-  videos: {
-    /**
-     * This is Embed of **'مقابلات'**
-     */
-    vid1: MessageEmbed;
-  };
-  history: {
-    /**
-     * This is Embed of **'قبل الميلاد'**
-     */
-    hi1: MessageEmbed;
-  };
-  interviewEmbed(
-    embedType: EmbedType,
-    data: DataAll,
-    user: User
-  ): {
+
+export interface InterviewEmbed {
     embed: MessageEmbed;
     status: "good" | "fail";
     image?: MessageAttachment;
     imagePath?: string;
-  };
-  createEmbedByData(
-    data: EmbedOptions,
-    user: User
-  ): MessageEmbed;
-}
+  } ;
+
+
+  //interviewEmbed(data:InterviewEmbedOptions) ;
+  //createEmbedByData(data: EmbedOptions,user: User): MessageEmbed;
+
 //#endregion
 
 //#region Arm
+
 type ArmStatus = "good" | "fail-data" | "fail-customId" | "fail-dataTown";
 export interface ArmInterface {
   embeds: MessageEmbed[];

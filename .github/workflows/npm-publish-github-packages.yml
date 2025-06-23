@@ -55,8 +55,9 @@ jobs:
           docs/
           .gitignore
           .vscode/
+          .github/
           .gitattributes 
-           test.js
+          test.js
           # يمكنك إضافة ملفات أخرى هنا
           # مثال: tests/
           EOF

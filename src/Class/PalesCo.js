@@ -1,14 +1,14 @@
 const interArm = require("../util/function/interArm");
 const goveArm = require("../util/function/goveArm");
 const createDiscordTimestamps = require("../util/function/createDiscordTimestamps");
-
 const DataPaleCo = require("./Data");
 const paresCustomId = require("../util/function/parseCustomId");
+const { interviewEmbed,dataEmbed } = require("../embeds/embeds");
 /**
- * This Class includes all data,functions and any something PalesCo comamnd need to work
+ * This Class includes functions of PalesCo command.
  */
 class PalesCo extends DataPaleCo {
-
+  /** @returns {import("../types/index.ts").EmbedArm} */
   /**
    * Arm is functions...
    */
