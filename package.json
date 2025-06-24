@@ -1,6 +1,6 @@
 {
   "name": "palesco.js",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "This is palesco data,function and all thing palesco command need to work.",
   "main": "index.js",
   "scripts": {
@@ -24,10 +24,8 @@
     "DZAN <idzanyk@gmail.com>"
   ],
   "dependencies": {
-    "discord.js": "^13.17.1"
-  },
-  "devDependencies": {
     "@types/node": "^18.0.6",
+    "discord.js": "^13.17.1",
     "node-fetch": "^3.2.6"
   }
 }

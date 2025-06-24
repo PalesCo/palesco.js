@@ -1,11 +1,13 @@
 const { MessageEmbed, MessageAttachment } = require("discord.js");
 const { main,colors } = require("../JSON/embeds.json");
 const path = require("path");
+const obj = require("../Data/Text/Videos/interviews.json");
 /**
  * @typedef {import("discord.js").User} User
  * @param {import('../types/index').EmbedOptions} data 
  * @param {User} user
  */
+
 function dataEmbed(data, user) {
 
   const embed = new MessageEmbed()
@@ -31,14 +33,14 @@ function dataEmbed(data, user) {
  */
 function interviewEmbed(embedType, data, user) {
   const embed = new MessageEmbed()
-    .setAuthor(user.tag, user.avatarURL({ dynamic: true }))
+    .setAuthor({name:user.tag, iconURL:user.avatarURL({ dynamic: true })})
     .setFooter({ text: main.footer })
     .setColor("RED");
   if (!data || !data.gov) {
     embed.setDescription("لم يتم توفير معلومات المحافظة");
     return { embed, status: "fail" };
   }
-  const gove = obj[data.gov];
+  const gove = obj.vid1[data.gov];
   if (!gove) {
     embed.setDescription("المحافظة غير موجودة في البيانات");
     return { embed, status: "fail" };

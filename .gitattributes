@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Don't add this in package...
+node_modules/
+.vscode/
+.gitattributes
+test.js

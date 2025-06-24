@@ -12,14 +12,6 @@ export interface GetSelectMenuInterface {
   values: string[];
 }
 export interface SelectMenuData {
-  /**
-   * By this function you can get select menu by customId
-   */
-  getSelectMenu(text: string): {
-    row: MessageActionRow[];
-    customId: string;
-    values: string[];
-  };
   /** 
   - All **main** SelectMenu's
   */
