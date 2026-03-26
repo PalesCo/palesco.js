@@ -1,210 +1,412 @@
 {
   "vid1": {
-    "title": "مقابلات مع فلسطينين",
+    "title": "التاريخ الشفوي لفلسطين",
     "description": "اختر من المحافظات المتوفره.",
     "vid1_1": {
-      "name": "محافظة بئر سبع",
-      "description": "لايوجد وصف",
+      "name": "بئر سبع",
+      "description": "عاصمة النقب إحدى أقدم وأكبر مدن فلسطين التاريخية بمساحة تصل إلى 12577 كيلو متر مربع. وهي أول مدينة فلسطينية احتلتها القوات البريطانية في 31-10-1917، بعد أن كانت جزءا من أخر دول الخلافة الإسلامية. تقع في موقع استراتيجي جنوب فلسطين، ويربط مصر بالجزيرة العربية.. \nRead more at: https://palqura.com/ar/city/14/%D8%A8%D8%A6%D8%B1-%D8%A7%D9%84%D8%B3%D8%A8%D8%B9",
       "vid1_1_1": {
-        "name": "بلدة الباطل",
-        "description": "لا يوجد وصف",
+        "name": "الباطل",
+        "description": "تقع جنوبي مدينة راهط في النقب، وهي واحدة من القرى غير المعترف بها، والتي تحرم من الاستفادة من الخدمات الأساسية الرسمية كالمياه والكهرباء وغيرها.  وقد قامت سلطات الاحتلال بهدم عدد من البيوت في القرية طوال السنوات الماضية منها بيوت لعائلات الزيادنه، الزرقان وعائلة أبو هدوبة التي تعيش هناك منذ عشرات السنين..\n Read more at: https://palqura.com/ar/article/1280/%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%84-%D9%83%D8%B1%D9%83%D9%88%D8%B1-:-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AF%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%82%D8%A8",
         "vid1_1_1_1": {
           "who": "سليمان زبيدات",
-          "doTheInterview": "سعيد عجّاوي",
-          "date": "1927",
-          "interviewDate": "194 دقيقة",
-          "hasImage": false,
-          "interviewTime": "آذار 13، 2007",
-          "interviewLinks": [
-            "[جزء الاول](https://youtu.be/cy59p8tY7oE)",
-            "[جزء تاني](https://youtu.be/s8cp0YgYFc4)"
+          "reporter": "سعيد عجّاوي",
+          "born": "1927",
+          "image": {
+            "has": true,
+            "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/al-Batil/Salman-al-Zibeidat/main.jpg"
+          },
+          "data": [
+            {
+              "id": "part1",
+              "type": "youtube-video",
+              "text": "الجزء الاول",
+              "url": "https://youtu.be/cy59p8tY7oE",
+              "time": "2:05:17",
+              "date": {
+                "year": "2007",
+                "month": "3",
+                "day": "13"
+              }
+            },
+            {
+              "id": "part2",
+              "type": "youtube-video",
+              "text": "الجزء الثاني",
+              "url": "https://youtu.be/s8cp0YgYFc4",
+              "time": "",
+              "date": {
+                "year": "2007",
+                "month": "3",
+                "day": "13"
+              }
+            },
+            {
+              "id": "mp3_audio_1",
+              "type": "audio",
+              "text": "تسجيل صوتي 1",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/al-Batil/Salman-al-Zibeidat/mp3/1.mp3",
+              "time": "1:08:55",
+              "date": {
+                "year": "2007",
+                "month": "04",
+                "day": "05"
+              }
+            },
+            {
+              "id": "mp3_audio_2",
+              "type": "audio",
+              "text": "تسجيل صوتي 2",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/al-Batil/Salman-al-Zibeidat/mp3/2.mp3",
+              "time": "55:57",
+              "date": {
+                "year": "2007",
+                "month": "04",
+                "day": "05"
+              }
+            },
+            {
+              "id": "mp3_audio_3",
+              "type": "audio",
+              "text": "تسجيل صوتي 3",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/al-Batil/Salman-al-Zibeidat/mp3/3.mp3",
+              "time": "1:08:05",
+              "date": {
+                "year": "2007",
+                "month": "04",
+                "day": "05"
+              }
+            }
           ],
           "source": "https://www.palestineremembered.com/GeoPoints/al_Batel_1002/ar/Article_2227.html"
         }
       },
       "vid1_1_2": {
-        "name": "بلدة بئر سبع",
-        "description": "لا يوجد وصف",
+        "name": "بئر سبع",
+        "description": "",
         "vid1_1_2_1": {
           "who": "مسلم وجيه بسيسو",
-          "doTheInterview": "ركان محمود",
-          "date": "1926",
-          "interviewDate": "أيلول 26، 2011",
-          "hasImage": true,
-          "image": "Data/Picture/interviews/مسلم وجيه بسيسو.jpg",
-          "interviewTime": "646 دقيقة",
-          "interviewLinks": [
-            "[المقابلة](https://youtu.be/jiSp_jDTkVk?list=PL896FEC8FF0B8BF0B)"
+          "reporter": "ركان محمود",
+          "born": "1926",
+          "image": {
+            "has": true,
+            "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/main.jpg"
+          },
+          "data": [
+            {
+              "id": "interview",
+              "type": "youtube-video",
+              "text": "المقابلة",
+              "url": "https://youtu.be/jiSp_jDTkVk?list=PL896FEC8FF0B8BF0B",
+              "time": "27:00",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_1",
+              "type": "audio",
+              "text": "تسجيل صوتي 1",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/1.mp3",
+              "time": "27:00",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_2",
+              "type": "audio",
+              "text": "تسجيل صوتي 2",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/2.mp3",
+              "time": "31:46",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_3",
+              "type": "audio",
+              "text": "تسجيل صوتي 3",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/3.mp3",
+              "time": "45:12",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_4",
+              "type": "audio",
+              "text": "تسجيل صوتي 4",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/4.mp3",
+              "time": "42:30",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_5",
+              "type": "audio",
+              "text": "تسجيل صوتي 5",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/5.mp3",
+              "time": "46:00",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_6",
+              "type": "audio",
+              "text": "التسجيل الصوتي 6",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/6.mp3",
+              "time": "45:03",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_7",
+              "type": "audio",
+              "text": "تسجيل صوتي",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/7.mp3",
+              "time": "17:54",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_8",
+              "type": "youtube-video",
+              "text": "تسجيل صوتي 8",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/8.mp3",
+              "time": "40:00",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_9",
+              "type": "audio",
+              "text": "تسجيل الصوتي 9",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/9.mp3",
+              "time": "11:59",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_10",
+              "type": "youtube-video",
+              "text": "تسجيل صوتي 10",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/10.mp3",
+              "time": "46:07",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_11",
+              "type": "audio",
+              "text": "تسجيل صوتي 11",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/11.mp3",
+              "time": "35:05",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_12",
+              "type": "audio",
+              "text": "تسجيل صوتي 12",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/12.mp3",
+              "time": "37:12",
+              "date": {
+                "year": "2011",
+                "month": "9",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_13",
+              "type": "audio",
+              "text": "تسجيل صوتي 13",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/13.mp3",
+              "time": "44:54",
+              "date": {
+                "year": "2011",
+                "month": "09",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_14",
+              "type": "audio",
+              "text": "تسجيل صوتي 14",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/14.mp3",
+              "time": "46:19",
+              "date": {
+                "year": "2011",
+                "month": "09",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_15",
+              "type": "audio",
+              "text": "تسجيل صوتي 15",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/15.mp3",
+              "time": "46:26",
+              "date": {
+                "year": "2011",
+                "month": "09",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_16",
+              "type": "audio",
+              "text": "تسجيل صوتي 16",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/16.mp3",
+              "time": "46:08",
+              "date": {
+                "year": "2011",
+                "month": "09",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_17",
+              "type": "audio",
+              "text": "تسجيل صوتي 17",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/17.mp3",
+              "time": "27:11",
+              "date": {
+                "year": "2011",
+                "month": "09",
+                "day": "26"
+              }
+            },
+            {
+              "id": "mp3_audio_18",
+              "type": "audio",
+              "text": "تسجيل صوتي 18",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/18.mp3",
+              "time": "9:34",
+              "date": {
+                "year": "2011",
+                "month": "09",
+                "day": "26"
+              }
+            }
           ],
           "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story20828.html"
         },
         "vid1_1_2_2": {
           "who": "عطا الوحيدي",
-          "doTheInterview": "فواز سلامه و ع. دنديس",
-          "date": "1924",
-          "interviewDate": "آذار 20، 2005",
-          "hasImage": false,
-          "interviewTime": "240+ دقيقة",
-          "interviewLinks": ["[الجزء الاول](https://youtu.be/MCz2PpdMei8)","[الجزء التاني](https://youtu.be/KDiWF9HTtXw)"],
+          "reporter": "فواز سلامه و ع. دنديس",
+          "born": "1924",
+          "image": {
+            "has": false,
+            "url": ""
+          },
+          "data": [
+            {
+              "id": "part1",
+              "type": "youtube-video",
+              "text": "الجزء الاول",
+              "url": "https://youtu.be/MCz2PpdMei8",
+              "time": "3:14:21",
+              "date": {
+                "year": "2005",
+                "month": "3",
+                "day": "20"
+              }
+            },
+            {
+              "id": "part2",
+              "type": "youtube-video",
+              "text": "الجزء الثاني",
+              "url": "https://youtu.be/KDiWF9HTtXw",
+              "time": "2:00:09",
+              "date": {
+                "year": "2005",
+                "month": "3",
+                "day": "20"
+              }
+            }
+          ],
           "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1576.html"
         },
         "vid1_1_2_3": {
           "who": "حسان ومحمد أبو جرار",
-          "doTheInterview": "فوّاز سلامه",
-          "date": "1957, 1936",
-          "interviewDate": "كانون ثاني 11، 2006",
-          "hasImage": false,
-          "interviewTime": "330+ دقيقة",
-          "interviewLinks": ["[الجزء الاول](https://youtu.be/zi6Rd-uFeaI)","[الجزء التاني](https://youtu.be/eQpbBJs6wQI)"],
+          "reporter": "فوّاز سلامه",
+          "born": "1957",
+          "image": {
+            "has": true,
+            "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/main.jpg"
+          },
+          "data": [
+            {
+              "id": "part1",
+              "type": "youtube-video",
+              "text": "الجزء الاول",
+              "url": "https://youtu.be/zi6Rd-uFeaI",
+              "time": "3:25:28",
+              "date": {
+                "year": "2006",
+                "month": "12",
+                "day": "11"
+              }
+            },
+            {
+              "id": "part2",
+              "type": "youtube-video",
+              "text": "الجزء الثاني",
+              "url": "https://youtu.be/eQpbBJs6wQI",
+              "time": "2:39:22",
+              "date": {
+                "year": "2006",
+                "month": "12",
+                "day": "11"
+              }
+            },
+            {
+              "id": "doc_pic_1",
+              "type": "image",
+              "text": "صورة 1",
+              "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/docs/Pict0133.JPG",
+              "time": "",
+              "date": {
+                "year": "",
+                "month": "",
+                "day": ""
+              }
+            }
+          ],
           "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1681.html"
-        },
-        "vid1_1_2_4": {
-          "who": "عبد المجيد أبو سعيد",
-          "doTheInterview": "فوّاز سلامه",
-          "date": "1927",
-          "interviewDate": "كانون ثاني 6، 2006",
-          "hasImage": true,
-          "image": "Data/Picture/interviews/عبد المجيد أبو سعيد.jpg",
-          "interviewTime": "240+ دقيقة",
-          "interviewLinks": ["[المقابلة](https://youtu.be/F3WxjZmXSrs)"],
-          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1682.html"
-        },
-        "vid1_1_2_5": {
-          "who": "فرح أبو محفوظ",
-          "doTheInterview": "فوّاز سلامه",
-          "date": "1917",
-          "interviewDate": "تشرين ثاني 28، 2005",
-          "hasImage": true,
-          "image": "Data/Picture/interviews/فرح أبو محفوظ.jpg",
-          "interviewTime": "150+ دقيقة",
-          "interviewLinks": ["[المقابلة](https://youtu.be/Qye7d1hg6S0)"],
-          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1683.html"
-        },
-        "vid1_1_2_6": {
-          "who": "محمد وسليمان الجمرة",
-          "doTheInterview": "فوّاز سلامه , ركان محمود" ,
-          "date": "1934, 1925",
-          "interviewDate": "آذار 29، 2006",
-          "hasImage": true,
-          "image": "Data/Picture/interviews/محمد وسليمان الجمرة.jpg",
-          "interviewTime": "195 دقيقة",
-          "interviewLinks": ["[المقابلة](https://youtu.be/NYsWq0i1DP0)"],
-          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1736.html"
-        },
-        "vid1_1_2_7": {
-          "who": "إبراهيم الدقس",
-          "doTheInterview": "فوّاز سلامه",
-          "date": "1932",
-          "interviewDate": "تموز 17، 2006",
-          "hasImage": false,
-          "interviewTime": "320+ دقيقة",
-          "interviewLinks": ["[الجزء الاول](https://youtu.be/BOp-iUnG7Hk)","[الجزء الثاني](https://youtu.be/wdJR6exMj-E)"],
-          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1814.html"
-        },
-        "vid1_1_2_8": {
-          "who": "محمد أبو فرحان",
-          "doTheInterview": "سعيد عجّاوي و ركان محمود",
-          "date": "1935",
-          "interviewDate": "آب 17، 2006",
-          "hasImage": true,
-          "image": "Data/Picture/interviews/محمد أبو فرحان.jpg",
-          "interviewTime": "144+ دقيقة",
-          "interviewLinks": ["[المقابلة](https://youtu.be/glxmZfr87ls)"],
-          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1850.html"
-        },
-        "vid1_1_2_9": {
-          "who": "محمد أبو رواع",
-          "doTheInterview": "فوّاز سلامه",
-          "date": "1927",
-          "interviewDate": "آب 7، 2006",
-          "hasImage": true,
-          "image": "Data/Picture/interviews/محمد أبو رواع.jpg",
-          "interviewTime": "152+ دقيقة",
-          "interviewLinks": ["[المقابلة](https://youtu.be/RAbvdSlY19Q?list=PLB55D8DB5F73DCA76)"],
-          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1851.html"
-        },
-        "vid1_1_2_10": {
-          "who": "عبدالله السلايمه",
-          "doTheInterview": "سعيد عجّاوي و ركان محمود",
-          "date": "1925",
-          "interviewDate": "آب 9، 2006",
-          "hasImage": true,
-          "image": "Data/Picture/interviews/عبدالله السلايمه.jpg",
-          "interviewTime": "200+ دقيقة",
-          "interviewLinks": ["[المقابلة](https://youtu.be/DU-FZy1wwcg)"],
-          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1852.html"
-        },
-        "vid1_1_2_11": {
-          "who": "واصل أبو جابر/جبارات",
-          "doTheInterview": "فوّاز سلامه",
-          "date": "1920",
-          "interviewDate": "تشرين ثاني 16، 2006",
-          "hasImage": false,
-          "interviewTime": "223 دقيقة",
-          "interviewLinks": ["[الجزء الاول](https://youtu.be/8izz4YQwJf8)","[الجزء التاني](https://youtu.be/5ZBTOKhEeig)"],
-          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story2016.html"
-        },
-        "vid1_1_2_12": {
-          "who": "إبراهيم أبو الخير",
-          "doTheInterview": "سعيد عجّاوي",
-          "date": "1922",
-          "interviewDate": "كانون ثاني 9، 2007",
-          "hasImage": true,
-          "image": "Data/Picture/interviews/إبراهيم أبو الخير.jpg",
-          "interviewTime": "111 دقيقة",
-          "interviewLinks": ["[المقابلة](https://youtu.be/QoBfZyPXgkQ)"],
-          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story2080.html"
-        },
-        "vid1_1_2_13": {
-          "who": "سليمان محمد مسامح ابو مسامح",
-          "doTheInterview": "سعيد عجّاوي",
-          "date": "1930",
-          "interviewDate": "تشرين أول 23، 2007",
-          "hasImage": true,
-          "image": "Data/Picture/interviews/سليمان محمد مسامح ابو مسامح.jpg",
-          "interviewTime": "156 دقيقة",
-          "interviewLinks": ["[المقابلة](https://youtu.be/485a5recQq0)"],
-          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story8190.html"
-        },
-        "vid1_1_2_14": {
-          "who": "عطية ابو صيام",
-          "doTheInterview": "سعيد عجّاوي",
-          "date": "1934",
-          "interviewDate": "نيسان 26، 2007",
-          "hasImage": true,
-          "image": "Data/Picture/interviews/عطية ابو صيام.jpg",
-          "interviewTime": "224 دقيقة",
-          "interviewLinks": ["[المقابلة](https://youtu.be/ovNhreEucNY)"],
-          "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story2619.html"
-        }
-      }
-    },
-    "vid1_2": {
-      "name": "محافظة بيسان",
-      "description": "لا يوجد وصف",
-      "vid1_2_1": {
-        "name": "البلدة عرب البواطي",
-        "description": "لا يوجد وصف",
-        "vid1_2_1_1": {
-          "who": "محمد البواطي",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
-          "hasImage": false,
-          "interviewTime": "لا معلومات",
-          "interviewLinks": ["[جزء الاول](https://youtu.be/NdVTQOomUXk)","[جزء تاني](https://youtu.be/wbhw-V7Prow)"],
-          "source": ""
-        },
-        "vid1_2_1_2": {
-          "who": "إبراهيم محمد البواطي",
-          "doTheInterview": "لا معلومات",
-          "date": "لا معلومات",
-          "interviewDate": "لا معلومات",
-          "hasImage": true,
-          "image": "Data/Picture/interviews/إبراهيم محمد البواطي.jpg",
-          "interviewTime": "لا معلومات",
-          "interviewLinks": ["[المقابلة](https://youtu.be/3XP3rD3brXk?list=PL39F4BC6ED0F68F54)"],
-          "source": ""
         }
       }
     }
