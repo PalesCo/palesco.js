@@ -11,31 +11,13 @@ export interface GetSelectMenuInterface {
   customId: string;
   values: string[];
 }
+
 export interface SelectMenuData {
   /** 
   - All **main** SelectMenu's
   */
   mains: {
-    /** 
-    - This is the main.
-    */
-    main: {
-      row: MessageActionRow[];
-      values: string[];
-      customId: string;
-    };
-    /** 
-    - This is the history.
-    */
-    history: {
-      row: MessageActionRow[];
-      values: string[];
-      customId: string;
-    };
-    /** 
-    - This is the videos.
-    */
-    videos: {
+    [id: "main" | "history" | "videos"]: {
       row: MessageActionRow[];
       values: string[];
       customId: string;
@@ -45,18 +27,7 @@ export interface SelectMenuData {
   - All History SelectMenu's
    */
   history: {
-    /**
-    - History Chapter 1 **'قبل الميلاد'**
-     */
-    hi1: {
-      row: MessageActionRow[];
-      value: string[];
-      customId: string;
-    };
-    /**
-    - History Chapter 2 **'مجازر القري'**
-     */
-    hi2: {
+    [id: "hi1" | "hi2"]: {
       row: MessageActionRow[];
       value: string[];
       customId: string;
@@ -140,22 +111,17 @@ export type DataAll = {
   townV?: string;
 };
 export type EmbedOptions = {
-    description: string;
-    title: string;
-    fields?: EmbedFieldData[] | EmbedFieldData[][];
-  
+  description: string;
+  title: string;
+  fields?: EmbedFieldData[] | EmbedFieldData[][];
 };
 
 export interface InterviewEmbed {
-    embed: MessageEmbed;
-    status: "good" | "fail";
-    image?: MessageAttachment;
-    imagePath?: string;
-  } ;
-
-
-  //interviewEmbed(data:InterviewEmbedOptions) ;
-  //createEmbedByData(data: EmbedOptions,user: User): MessageEmbed;
+  embed: MessageEmbed;
+  status: "good" | "fail";
+  image?: MessageAttachment;
+  imagePath?: string;
+}
 
 //#endregion
 
@@ -171,7 +137,7 @@ export interface ArmInterface {
         attachment: string;
         name: string;
       }
-    | undefined
+    | undefined,
   ];
   ephemeral: boolean;
 }
@@ -184,7 +150,7 @@ export interface CustomId {
     fullId: string;
     totalSegments: number;
   };
-  interview?:{
+  interview?: {
     type: string;
     governorate: string | null;
     town: string | null;

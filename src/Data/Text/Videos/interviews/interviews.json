@@ -1,0 +1,285 @@
+{
+  "vid1_1_1_1": {
+    "who": "سليمان زبيدات",
+    "reporter": "سعيد عجّاوي",
+    "born": "1927",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/al-Batil/Salman-al-Zibeidat/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/GeoPoints/al_Batel_1002/ar/Article_2227.html",
+    "media": [
+      "vid1_1_1_1_part1",
+      "vid1_1_1_1_part2",
+      "vid1_1_1_1_1",
+      "vid1_1_1_1_2",
+      "vid1_1_1_1_3"
+    ]
+  },
+  "vid1_1_2_1": {
+    "who": "مسلم وجيه بسيسو",
+    "reporter": "ركان محمود",
+    "born": "1926",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story20828.html",
+    "media": [
+      "vid1_1_2_1_interview",
+      "vid1_1_2_1_1",
+      "vid1_1_2_1_2",
+      "vid1_1_2_1_3",
+      "vid1_1_2_1_4",
+      "vid1_1_2_1_5",
+      "vid1_1_2_1_6",
+      "vid1_1_2_1_7",
+      "vid1_1_2_1_8",
+      "vid1_1_2_1_9",
+      "vid1_1_2_1_10",
+      "vid1_1_2_1_11",
+      "vid1_1_2_1_12",
+      "vid1_1_2_1_13",
+      "vid1_1_2_1_14",
+      "vid1_1_2_1_15",
+      "vid1_1_2_1_16",
+      "vid1_1_2_1_17",
+      "vid1_1_2_1_18"
+    ]
+  },
+  "vid1_1_2_2": {
+    "who": "عطا الوحيدي",
+    "reporter": "فواز سلامه و ع. دنديس",
+    "born": "1924",
+    "image": {
+      "has": false,
+      "url": ""
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1576.html",
+    "media": [
+      "vid1_1_2_2_part1",
+      "vid1_1_2_2_part2"
+    ]
+  },
+  "vid1_1_2_3": {
+    "who": "حسان ومحمد أبو جرار",
+    "reporter": "فوّاز سلامه",
+    "born": "1936 and 1957 respectively",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1681.html",
+    "media": [
+      "vid1_1_2_3_part1",
+      "vid1_1_2_3_part2",
+      "vid1_1_2_3_1",
+      "vid1_1_2_3_2",
+      "vid1_1_2_3_3",
+      "vid1_1_2_3_4",
+      "vid1_1_2_3_5",
+      "vid1_1_2_3_6",
+      "vid1_1_2_3_7",
+      "vid1_1_2_3_8",
+      "vid1_1_2_3_9",
+      "vid1_1_2_3_other"
+    ]
+  },
+  "vid1_1_2_4": {
+    "who": "عبد المجيد أبو سعيد",
+    "reporter": "فوّاز سلامه",
+    "born": "1927",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/AbdelMajeedAbuSiayyid/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1682.html",
+    "media": [
+      "vid1_1_2_4_interview",
+      "vid1_1_2_4_1",
+      "vid1_1_2_4_2",
+      "vid1_1_2_4_3",
+      "vid1_1_2_4_4",
+      "vid1_1_2_4_5",
+      "vid1_1_2_4_6"
+    ]
+  },
+  "vid1_1_2_5": {
+    "who": "فرح أبو محفوظ",
+    "reporter": "فوّاز سلامه",
+    "born": "1917",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/FarahanAbuMahfouth/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1683.html",
+    "media": [
+      "vid1_1_2_5_interview",
+      "vid1_1_2_5_1",
+      "vid1_1_2_5_2",
+      "vid1_1_2_5_3",
+      "vid1_1_2_5_4"
+    ]
+  },
+  "vid1_1_2_6": {
+    "who": "محمد وسليمان الجمرة",
+    "reporter": "ف. سلامه و ر. محمود",
+    "born": "1925 and 1934",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Liqyah/MohammadAndSulaymanAl-Jamrat/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1736.html",
+    "media": [
+      "vid1_1_2_6_interview",
+      "vid1_1_2_6_1",
+      "vid1_1_2_6_2",
+      "vid1_1_2_6_3",
+      "vid1_1_2_6_4",
+      "vid1_1_2_6_5",
+      "vid1_1_2_6_6"
+    ]
+  },
+  "vid1_1_2_7": {
+    "who": "إبراهيم الدقس",
+    "reporter": "فوّاز سلامه",
+    "born": "1932",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1814.html",
+    "media": [
+      "vid1_1_2_7_part1",
+      "vid1_1_2_7_part2",
+      "vid1_1_2_7_1",
+      "vid1_1_2_7_2",
+      "vid1_1_2_7_1",
+      "vid1_1_2_7_2",
+      "vid1_1_2_7_3",
+      "vid1_1_2_7_4",
+      "vid1_1_2_7_5",
+      "vid1_1_2_7_6",
+      "vid1_1_2_7_7",
+      "vid1_1_2_7_8",
+      "vid1_1_2_7_9",
+      "vid1_1_2_7_10",
+      "vid1_1_2_7_11",
+      "vid1_1_2_7_12"
+    ]
+  },
+  "vid1_1_2_8": {
+    "who": "محمد أبو فرحان",
+    "reporter": " \tر. محمود و س. عجاوي",
+    "born": "1935",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Ararah/MuhammadAbuFarhan/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1850.html",
+    "media": [
+      "vid1_1_2_8_interview",
+      "vid1_1_2_8_1",
+      "vid1_1_2_8_2",
+      "vid1_1_2_8_3",
+      "vid1_1_2_8_4"
+    ]
+  },
+  "vid1_1_2_9": {
+    "who": "محمد أبو رواع",
+    "reporter": "فوّاز سلامه",
+    "born": "1927",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/MuhammadAbuRawaa-Jibarat/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1851.html",
+    "media": [
+      "vid1_1_2_9_interview",
+      "vid1_1_2_9_1",
+      "vid1_1_2_9_2",
+      "vid1_1_2_9_3",
+      "vid1_1_2_9_4"
+    ]
+  },
+  "vid1_1_2_10": {
+    "who": "عبدالله السلايمه",
+    "reporter": " ر. محمود و س. عجاوي",
+    "born": "1925",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Wadi-al-Khalil/Abdullah-al-Salaymeh/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story1852.html",
+    "media": [
+      "vid1_1_2_10_interview",
+      "vid1_1_2_10_1",
+      "vid1_1_2_10_2",
+      "vid1_1_2_10_3",
+      "vid1_1_2_10_4",
+      "vid1_1_2_10_5"
+    ]
+  },
+  "vid1_1_2_11": {
+    "who": "واصل أبو جابر/جبارات",
+    "reporter": " فوّاز سلامه",
+    "born": "1920",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Ijbarat/WasilAbuJabir/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story2016.html",
+    "media": [
+      "vid1_1_2_11_part1",
+      "vid1_1_2_11_part2",
+      "vid1_1_2_11_1",
+      "vid1_1_2_11_2"
+    ]
+  },
+  "vid1_1_2_12": {
+    "who": "إبراهيم أبو الخير",
+    "reporter": "سعيد عجّاوي",
+    "born": "1922",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Khashm-Zannah/Ibrahim-Abu-al-Khayr/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story2080.html",
+    "media": [
+      "vid1_1_2_12_interview",
+      "vid1_1_2_12_mp3_audio_2",
+      "vid1_1_2_12_mp3_audio_1",
+      "vid1_1_2_12_mp3_audio_3"
+    ]
+  },
+  "vid1_1_2_13": {
+    "who": "عطية ابو صيام",
+    "reporter": "سعيد عجّاوي",
+    "born": "1934",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Attiya-Abu-Suyam/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story2619.html",
+    "media": [
+      "vid1_1_2_13_interview",
+      "vid1_1_2_13_mp3_audio_1",
+      "vid1_1_2_13_mp3_audio_2",
+      "vid1_1_2_13_mp3_audio_3"
+    ]
+  },
+  "vid1_1_2_14": {
+    "who": "سليمان محمد مسامح ابو مسامح",
+    "reporter": "سعيد عجّاوي",
+    "born": "1930",
+    "image": {
+      "has": true,
+      "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Shuri3a/Suliaman-Abu-Mismah/main.jpg"
+    },
+    "source": "https://www.palestineremembered.com/Beersheba/Beersheba/ar/Story8190.html",
+    "media": [
+      "vid1_1_2_14_interview",
+      "vid1_1_2_14_mp3_audio_1"
+    ]
+  }
+}

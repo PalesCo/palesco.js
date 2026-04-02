@@ -1,0 +1,1113 @@
+{
+  "vid1_1_1_1_part1": {
+    "type": "youtube-video",
+    "text": "الجزء الاول",
+    "url": "https://youtu.be/cy59p8tY7oE",
+    "date": {
+      "year": "2007",
+      "month": "3",
+      "day": "13",
+      "time": "2:05:17"
+    }
+  },
+  "vid1_1_1_1_part2": {
+    "type": "youtube-video",
+    "text": "الجزء الثاني",
+    "url": "https://youtu.be/s8cp0YgYFc4",
+    "date": {
+      "year": "2007",
+      "month": "3",
+      "day": "13",
+      "time": ""
+    }
+  },
+  "vid1_1_1_1_1": {
+    "type": "audio",
+    "text": "تسجيل صوتي 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/al-Batil/Salman-al-Zibeidat/mp3/1.mp3",
+    "date": {
+      "year": "2007",
+      "month": "04",
+      "day": "05",
+      "time": "1:08:55"
+    }
+  },
+  "vid1_1_1_1_2": {
+    "type": "audio",
+    "text": "تسجيل صوتي 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/al-Batil/Salman-al-Zibeidat/mp3/2.mp3",
+    "date": {
+      "year": "2007",
+      "month": "04",
+      "day": "05",
+      "time": "55:57"
+    }
+  },
+  "vid1_1_1_1_3": {
+    "type": "audio",
+    "text": "تسجيل صوتي 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/al-Batil/Salman-al-Zibeidat/mp3/3.mp3",
+    "date": {
+      "year": "2007",
+      "month": "04",
+      "day": "05",
+      "time": "1:08:05"
+    }
+  },
+  "vid1_1_2_1_interview": {
+    "type": "youtube-video",
+    "text": "المقابلة",
+    "url": "https://youtu.be/jiSp_jDTkVk?list=PL896FEC8FF0B8BF0B",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "27:00"
+    }
+  },
+  "vid1_1_2_1_1": {
+    "type": "audio",
+    "text": "تسجيل صوتي 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/1.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "27:00"
+    }
+  },
+  "vid1_1_2_1_2": {
+    "type": "audio",
+    "text": "تسجيل صوتي 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/2.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "31:46"
+    }
+  },
+  "vid1_1_2_1_3": {
+    "type": "audio",
+    "text": "تسجيل صوتي 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/3.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "45:12"
+    }
+  },
+  "vid1_1_2_1_4": {
+    "type": "audio",
+    "text": "تسجيل صوتي 4",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/4.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "42:30"
+    }
+  },
+  "vid1_1_2_1_5": {
+    "type": "audio",
+    "text": "تسجيل صوتي 5",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/5.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "46:00"
+    }
+  },
+  "vid1_1_2_1_6": {
+    "type": "audio",
+    "text": "التسجيل الصوتي 6",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/6.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "45:03"
+    }
+  },
+  "vid1_1_2_1_7": {
+    "type": "audio",
+    "text": "تسجيل صوتي 7",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/7.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "17:54"
+    }
+  },
+  "vid1_1_2_1_8": {
+    "type": "audio",
+    "text": "تسجيل صوتي 8",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/8.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "40:00"
+    }
+  },
+  "vid1_1_2_1_9": {
+    "type": "audio",
+    "text": "تسجيل الصوتي 9",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/9.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "11:59"
+    }
+  },
+  "vid1_1_2_1_10": {
+    "type": "audio",
+    "text": "تسجيل صوتي 10",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/10.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "46:07"
+    }
+  },
+  "vid1_1_2_1_11": {
+    "type": "audio",
+    "text": "تسجيل صوتي 11",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/11.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "35:05"
+    }
+  },
+  "vid1_1_2_1_12": {
+    "type": "audio",
+    "text": "تسجيل صوتي 12",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/12.mp3",
+    "date": {
+      "year": "2011",
+      "month": "9",
+      "day": "26",
+      "time": "37:12"
+    }
+  },
+  "vid1_1_2_1_13": {
+    "type": "audio",
+    "text": "تسجيل صوتي 13",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/13.mp3",
+    "date": {
+      "year": "2011",
+      "month": "09",
+      "day": "26",
+      "time": "44:54"
+    }
+  },
+  "vid1_1_2_1_14": {
+    "type": "audio",
+    "text": "تسجيل صوتي 14",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/14.mp3",
+    "date": {
+      "year": "2011",
+      "month": "09",
+      "day": "26",
+      "time": "46:19"
+    }
+  },
+  "vid1_1_2_1_15": {
+    "type": "audio",
+    "text": "تسجيل صوتي 15",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/15.mp3",
+    "date": {
+      "year": "2011",
+      "month": "09",
+      "day": "26",
+      "time": "46:26"
+    }
+  },
+  "vid1_1_2_1_16": {
+    "type": "audio",
+    "text": "تسجيل صوتي 16",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/16.mp3",
+    "date": {
+      "year": "2011",
+      "month": "09",
+      "day": "26",
+      "time": "46:08"
+    }
+  },
+  "vid1_1_2_1_17": {
+    "type": "audio",
+    "text": "تسجيل صوتي 17",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/17.mp3",
+    "date": {
+      "year": "2011",
+      "month": "09",
+      "day": "26",
+      "time": "27:11"
+    }
+  },
+  "vid1_1_2_1_18": {
+    "type": "audio",
+    "text": "تسجيل صوتي 18",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Mislm-Wajih-Busiesuh/mp3/18.mp3",
+    "date": {
+      "year": "2011",
+      "month": "09",
+      "day": "26",
+      "time": "9:34"
+    }
+  },
+  "vid1_1_2_2_part1": {
+    "type": "youtube-video",
+    "text": "الجزء الاول",
+    "url": "https://youtu.be/MCz2PpdMei8",
+    "date": {
+      "year": "2005",
+      "month": "3",
+      "day": "20",
+      "time": "3:14:21"
+    }
+  },
+  "vid1_1_2_2_part2": {
+    "type": "youtube-video",
+    "text": "الجزء الثاني",
+    "url": "https://youtu.be/KDiWF9HTtXw",
+    "date": {
+      "year": "2005",
+      "month": "3",
+      "day": "20",
+      "time": "2:00:09"
+    }
+  },
+  "vid1_1_2_3_part1": {
+    "type": "youtube-video",
+    "text": "الجزء الاول",
+    "url": "https://youtu.be/zi6Rd-uFeaI",
+    "date": {
+      "year": "2006",
+      "month": "12",
+      "day": "11",
+      "time": "3:25:28"
+    }
+  },
+  "vid1_1_2_3_part2": {
+    "type": "youtube-video",
+    "text": "الجزء الثاني",
+    "url": "https://youtu.be/eQpbBJs6wQI",
+    "date": {
+      "year": "2006",
+      "month": "12",
+      "day": "11",
+      "time": "2:39:22"
+    }
+  },
+  "vid1_1_2_3_1": {
+    "type": "image",
+    "text": "صورة 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/docs/Pict0133.JPG",
+    "date": {
+      "year": "",
+      "month": "",
+      "day": "",
+      "time": ""
+    }
+  },
+  "vid1_1_2_3_2": {
+    "type": "image",
+    "text": "صورة 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/docs/Pict0135.JPG",
+    "date": {
+      "year": "",
+      "month": "",
+      "day": "",
+      "time": ""
+    }
+  },
+  "vid1_1_2_3_3": {
+    "type": "image",
+    "text": "صورة 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/docs/Pict0134.JPG",
+    "date": {
+      "year": "",
+      "month": "",
+      "day": "",
+      "time": ""
+    }
+  },
+  "vid1_1_2_3_4": {
+    "type": "image",
+    "text": "صورة 4",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/docs/Pict0136.JPG",
+    "date": {
+      "year": "",
+      "month": "",
+      "day": "",
+      "time": ""
+    }
+  },
+  "vid1_1_2_3_5": {
+    "type": "image",
+    "text": "صورة 5",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/docs/Pict0137.JPG",
+    "date": {
+      "year": "",
+      "month": "",
+      "day": "",
+      "time": ""
+    }
+  },
+  "vid1_1_2_3_6": {
+    "type": "image",
+    "text": "صورة 6",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/docs/Pict0138.JPG",
+    "date": {
+      "year": "",
+      "month": "",
+      "day": "",
+      "time": ""
+    }
+  },
+  "vid1_1_2_3_7": {
+    "type": "image",
+    "text": "صورة 7",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/docs/Pict0139.JPG",
+    "date": {
+      "year": "",
+      "month": "",
+      "day": "",
+      "time": ""
+    }
+  },
+  "vid1_1_2_3_8": {
+    "type": "image",
+    "text": "صورة 8",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/docs/Pict0140.JPG",
+    "date": {
+      "year": "",
+      "month": "",
+      "day": "",
+      "time": ""
+    }
+  },
+  "vid1_1_2_3_9": {
+    "type": "image",
+    "text": "صورة 9",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/docs/Pict0141.JPG",
+    "date": {
+      "year": "",
+      "month": "",
+      "day": "",
+      "time": ""
+    }
+  },
+  "vid1_1_2_3_other": {
+    "type": "image",
+    "text": "صور اخره",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/HassanAndMuhammadAbuJarrar/docs",
+    "date": {
+      "year": "",
+      "month": "",
+      "day": "",
+      "time": ""
+    }
+  },
+  "vid1_1_2_4_interview": {
+    "type": "youtube-video",
+    "text": "المقابلة",
+    "url": "https://youtu.be/F3WxjZmXSrs?si=gLhhSD5K_XVNYOFA",
+    "date": {
+      "year": 2006,
+      "month": 1,
+      "day": 6,
+      "time": "3:44:51"
+    }
+  },
+  "vid1_1_2_4_1": {
+    "type": "audio",
+    "text": "تسجيل صوتي 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/AbdelMajeedAbuSiayyid/mp3/1.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "30:35"
+    }
+  },
+  "vid1_1_2_4_2": {
+    "type": "audio",
+    "text": "تسجيل صوتي 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/AbdelMajeedAbuSiayyid/mp3/2.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "40:10"
+    }
+  },
+  "vid1_1_2_4_3": {
+    "type": "audio",
+    "text": "تسجيل صوتي 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/AbdelMajeedAbuSiayyid/mp3/3.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "41:19"
+    }
+  },
+  "vid1_1_2_4_4": {
+    "type": "audio",
+    "text": "تسجيل صوتي 4",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/AbdelMajeedAbuSiayyid/mp3/4.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "40:08"
+    }
+  },
+  "vid1_1_2_4_5": {
+    "type": "audio",
+    "text": "تسجيل صوتي 5",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/AbdelMajeedAbuSiayyid/mp3/5.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "40:47"
+    }
+  },
+  "vid1_1_2_4_6": {
+    "type": "audio",
+    "text": "تسجيل صوتي 6",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/AbdelMajeedAbuSiayyid/mp3/6.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "31:29"
+    }
+  },
+  "vid1_1_2_5_interview": {
+    "type": "youtube-video",
+    "text": "مقابلة",
+    "url": "https://youtu.be/Qye7d1hg6S0?si=WKTu4gXrU_33WnwH",
+    "date": {
+      "year": 2005,
+      "month": 11,
+      "day": 28,
+      "time": "1:52:27"
+    }
+  },
+  "vid1_1_2_5_1": {
+    "type": "audio",
+    "text": "تسجيل صوتي 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/FarahanAbuMahfouth/mp3/1.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "38:08"
+    }
+  },
+  "vid1_1_2_5_2": {
+    "type": "audio",
+    "text": "تسجيل صوتي 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/FarahanAbuMahfouth/mp3/2.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "25:16"
+    }
+  },
+  "vid1_1_2_5_3": {
+    "type": "audio",
+    "text": "تسجيل صوتي 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/FarahanAbuMahfouth/mp3/3.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "18:10"
+    }
+  },
+  "vid1_1_2_5_4": {
+    "type": "audio",
+    "text": "تسجيل صوتي 4",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/FarahanAbuMahfouth/mp3/4.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "30:29"
+    }
+  },
+  "vid1_1_2_6_interview": {
+    "type": "youtube-video",
+    "text": "المقابلة",
+    "url": "https://youtu.be/NYsWq0i1DP0?si=D3tNy-q4hjbGr4oL",
+    "date": {
+      "year": 2006,
+      "month": 3,
+      "day": 29,
+      "time": "3:15:33"
+    }
+  },
+  "vid1_1_2_6_1": {
+    "type": "audio",
+    "text": "التسجيل الصوتي 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Liqyah/MohammadAndSulaymanAl-Jamrat/mp3/1.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "36:22"
+    }
+  },
+  "vid1_1_2_6_2": {
+    "type": "audio",
+    "text": "تسجيل صوتي 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Liqyah/MohammadAndSulaymanAl-Jamrat/mp3/2.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "40:37"
+    }
+  },
+  "vid1_1_2_6_3": {
+    "type": "audio",
+    "text": "تسجيل صوتي 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Liqyah/MohammadAndSulaymanAl-Jamrat/mp3/3.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "39:24"
+    }
+  },
+  "vid1_1_2_6_4": {
+    "type": "audio",
+    "text": "التسجيل صوتي 4",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Liqyah/MohammadAndSulaymanAl-Jamrat/mp3/4.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "40:36"
+    }
+  },
+  "vid1_1_2_6_5": {
+    "type": "audio",
+    "text": "التسجيل صوتي 5",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Liqyah/MohammadAndSulaymanAl-Jamrat/mp3/5.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "20:15"
+    }
+  },
+  "vid1_1_2_6_6": {
+    "type": "audio",
+    "text": "التسجيل صوتي 6",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Liqyah/MohammadAndSulaymanAl-Jamrat/mp3/6.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "17:56"
+    }
+  },
+  "vid1_1_2_7_part1": {
+    "type": "youtube-video",
+    "text": "الجزء الاول",
+    "url": "https://youtu.be/BOp-iUnG7Hk?si=HWJDAfKO8kFDt-Wc",
+    "date": {
+      "year": 2006,
+      "month": 7,
+      "day": 17,
+      "time": "2:38:03"
+    }
+  },
+  "vid1_1_2_7_part2": {
+    "type": "youtube-video",
+    "text": "الجزء الثاني",
+    "url": "https://youtu.be/wdJR6exMj-E?si=3YjYH20sD44I7mwp",
+    "date": {
+      "year": 2006,
+      "month": 7,
+      "day": 17,
+      "time": "2:42:41"
+    }
+  },
+  "vid1_1_2_7_1": {
+    "type": "image",
+    "text": "شجرة العيلة",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07687.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_7_2": {
+    "type": "image",
+    "text": "شجرة العيلة 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07688.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_7_3": {
+    "type": "image",
+    "text": "شجرة العيلة 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07689.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_7_4": {
+    "type": "image",
+    "text": "شجرة العيلة 4",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07690.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_7_5": {
+    "type": "image",
+    "text": "شجرة العيلة 5",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07691.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_7_6": {
+    "type": "image",
+    "text": "شجرة العيلة 6",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07692.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_7_7": {
+    "type": "image",
+    "text": "شجرة العيلة 7",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07693.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_7_8": {
+    "type": "image",
+    "text": "شجرة العيلة 8",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07694.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_7_9": {
+    "type": "image",
+    "text": "شجرة العيلة 9",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07695.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_7_10": {
+    "type": "image",
+    "text": "شجرة العيلة 10",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07696.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_7_11": {
+    "type": "image",
+    "text": "شجرة العيلة 11",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07697.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_7_12": {
+    "type": "image",
+    "text": "شجرة العيلة 12",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3/Beersheba/Beersheba/Ibrahim-al-Daqis/docs/familyTree/DSC07698.JPG",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": ""
+    }
+  },
+  "vid1_1_2_8_interview": {
+    "type": "youtube-video",
+    "text": "المقابلة",
+    "url": "https://youtu.be/glxmZfr87ls?si=4GascIGN2Y-KM1U1",
+    "date": {
+      "year": 2006,
+      "month": 8,
+      "day": 17,
+      "time": "2:27:54"
+    }
+  },
+  "vid1_1_2_8_1": {
+    "type": "audio",
+    "text": "تسجيل صوتي 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Ararah/MuhammadAbuFarhan/mp3/1.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "43:29"
+    }
+  },
+  "vid1_1_2_8_2": {
+    "type": "audio",
+    "text": "تسجيل صوتي 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Ararah/MuhammadAbuFarhan/mp3/2.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "43:31"
+    }
+  },
+  "vid1_1_2_8_3": {
+    "type": "audio",
+    "text": "تسجيل صوتي 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Ararah/MuhammadAbuFarhan/mp3/3.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "18:35"
+    }
+  },
+  "vid1_1_2_8_4": {
+    "type": "audio",
+    "text": "تسجيل صوتي 4",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Ararah/MuhammadAbuFarhan/mp3/4.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "41:55"
+    }
+  },
+  "vid1_1_2_9_interview": {
+    "type": "youtube-video",
+    "text": "المقابلة",
+    "url": "https://youtu.be/RAbvdSlY19Q?si=qVeeImUYvkgypdHv",
+    "date": {
+      "year": 2006,
+      "month": 8,
+      "day": 7,
+      "time": "40:34"
+    }
+  },
+  "vid1_1_2_9_1": {
+    "type": "audio",
+    "text": "التسجيل الصوتي 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/MuhammadAbuRawaa-Jibarat/mp3/1.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "40:34"
+    }
+  },
+  "vid1_1_2_9_2": {
+    "type": "audio",
+    "text": "التسجيل الصوتي 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/MuhammadAbuRawaa-Jibarat/mp3/2.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "39:31"
+    }
+  },
+  "vid1_1_2_9_3": {
+    "type": "audio",
+    "text": "التسجيل الصوتي 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/MuhammadAbuRawaa-Jibarat/mp3/3.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "34:26"
+    }
+  },
+  "vid1_1_2_9_4": {
+    "type": "audio",
+    "text": "التسجيل الصوتي 4",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/MuhammadAbuRawaa-Jibarat/mp3/4.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "38:06"
+    }
+  },
+  "vid1_1_2_10_interview": {
+    "type": "youtube-video",
+    "text": "المقابلة",
+    "url": "https://youtu.be/DU-FZy1wwcg?si=cpMjP-MifhCV-Nn-",
+    "date": {
+      "year": 2006,
+      "month": 8,
+      "day": 9,
+      "time": "  3:20:47"
+    }
+  },
+  "vid1_1_2_10_1": {
+    "type": "audio",
+    "text": "تسجيل صوتي 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Wadi-al-Khalil/Abdullah-al-Salaymeh/mp3/1.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "43:10"
+    }
+  },
+  "vid1_1_2_10_2": {
+    "type": "audio",
+    "text": "تسجيل صوتي 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Wadi-al-Khalil/Abdullah-al-Salaymeh/mp3/2.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "43:23"
+    }
+  },
+  "vid1_1_2_10_3": {
+    "type": "audio",
+    "text": "تسجيل صوتي 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Wadi-al-Khalil/Abdullah-al-Salaymeh/mp3/3.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "43:23"
+    }
+  },
+  "vid1_1_2_10_4": {
+    "type": "audio",
+    "text": "تسجيل صوتي 4",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Wadi-al-Khalil/Abdullah-al-Salaymeh/mp3/4.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "43:23"
+    }
+  },
+  "vid1_1_2_10_5": {
+    "type": "audio",
+    "text": "تسجيل صوتي 5",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Wadi-al-Khalil/Abdullah-al-Salaymeh/mp3/5.mp3",
+    "date": {
+      "year": 2006,
+      "month": 12,
+      "day": 23,
+      "time": "42:39"
+    }
+  },
+  "vid1_1_2_11_part1": {
+    "type": "youtube-video",
+    "text": "الجزء الاول",
+    "url": "https://youtu.be/8izz4YQwJf8?si=WGIJZRHY_bjjFrBh",
+    "date": {
+      "year": 2006,
+      "month": 11,
+      "day": 16,
+      "time": "1:46:54"
+    }
+  },
+  "vid1_1_2_11_part2": {
+    "type": "youtube-video",
+    "text": "الجزء الثاني",
+    "url": "https://youtu.be/5ZBTOKhEeig?si=ufn4slm-Mgrb503Z",
+    "date": {
+      "year": 2006,
+      "month": 11,
+      "day": 16,
+      "time": "1:56:43"
+    }
+  },
+  "vid1_1_2_11_1": {
+    "type": "audio",
+    "text": "التسجيل الصوتي 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Ijbarat/WasilAbuJabir/mp3/1.mp3",
+    "date": {
+      "year": 2007,
+      "month": 1,
+      "day": 24,
+      "time": ""
+    }
+  },
+  "vid1_1_2_11_2": {
+    "type": "audio",
+    "text": "التسجيل الصوتي 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Ijbarat/WasilAbuJabir/mp3/2.mp3",
+    "date": {
+      "year": 2007,
+      "month": 1,
+      "day": 24,
+      "time": ""
+    }
+  },
+  "vid1_1_2_12_interview": {
+    "type": "youtube-video",
+    "text": "المقابلة",
+    "url": "https://youtu.be/QoBfZyPXgkQ?si=ovlKTcRvUcLuNgiI",
+    "date": {
+      "year": 2007,
+      "month": 1,
+      "day": 9,
+      "time": "1:51:41"
+    }
+  },
+  "vid1_1_2_12_mp3_audio_2": {
+    "type": "audio",
+    "text": "تسجيل صوتي 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Khashm-Zannah/Ibrahim-Abu-al-Khayr/mp3/2.mp3",
+    "date": {
+      "year": 2007,
+      "month": 2,
+      "day": 7,
+      "time": "43:02"
+    }
+  },
+  "vid1_1_2_12_mp3_audio_1": {
+    "type": "audio",
+    "text": "تسجيل صوتي 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Khashm-Zannah/Ibrahim-Abu-al-Khayr/mp3/1.mp3",
+    "date": {
+      "year": 2007,
+      "month": 2,
+      "day": 7,
+      "time": "43:02"
+    }
+  },
+  "vid1_1_2_12_mp3_audio_3": {
+    "type": "audio",
+    "text": "تسجيل صوتي 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Khashm-Zannah/Ibrahim-Abu-al-Khayr/mp3/3.mp3",
+    "date": {
+      "year": 2026,
+      "month": 2,
+      "day": 7,
+      "time": "37:02"
+    }
+  },
+  "vid1_1_2_13_interview": {
+    "type": "youtube-video",
+    "text": "المقابلة",
+    "url": "https://youtu.be/ovNhreEucNY?si=vk5FzI-d3V8N4KG1",
+    "date": {
+      "year": 2007,
+      "month": 4,
+      "day": 26,
+      "time": "3:42:43"
+    }
+  },
+  "vid1_1_2_13_mp3_audio_1": {
+    "type": "audio",
+    "text": "تسجيل صوتي 1",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Attiya-Abu-Suyam/mp3/1.mp3",
+    "date": {
+      "year": 2007,
+      "month": 6,
+      "day": 29,
+      "time": "78:30"
+    }
+  },
+  "vid1_1_2_13_mp3_audio_2": {
+    "type": "audio",
+    "text": "تسجيل صوتي 2",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Attiya-Abu-Suyam/mp3/2.mp3",
+    "date": {
+      "year": 2007,
+      "month": 6,
+      "day": 29,
+      "time": "63:21"
+    }
+  },
+  "vid1_1_2_13_mp3_audio_3": {
+    "type": "audio",
+    "text": "تسجيل صوتي 3",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Beersheba/Attiya-Abu-Suyam/mp3/3.mp3",
+    "date": {
+      "year": 2007,
+      "month": 6,
+      "day": 29,
+      "time": "80:27"
+    }
+  },
+  "vid1_1_2_14_interview": {
+    "type": "youtube-video",
+    "text": "المقابلة",
+    "url": "https://youtu.be/485a5recQq0?si=t-PKawtPcvt0lzWg",
+    "date": {
+      "year": 2007,
+      "month": 10,
+      "day": 23,
+      "time": "2:36:20"
+    }
+  },
+  "vid1_1_2_14_mp3_audio_1": {
+    "type": "audio",
+    "text": "تسجيل صوتي",
+    "url": "https://www.palestineremembered.com/OralHistoryMP3-Original/Beersheba/Shuri3a/Suliaman-Abu-Mismah/mp3/1.mp3",
+    "date": {
+      "year": 2007,
+      "month": 12,
+      "day": 27,
+      "time": "2:35:56"
+    }
+  }
+}

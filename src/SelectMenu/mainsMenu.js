@@ -1,5 +1,4 @@
 const { MessageActionRow, MessageSelectMenu } = require("discord.js");
-///mmm
 const mainSelect = new MessageSelectMenu()
     .setCustomId("main")
     .setPlaceholder("اختر شئ عن فلسطين")
@@ -10,43 +9,12 @@ const mainSelect = new MessageSelectMenu()
         description: "معلومات عن تاريخ فلسطين",
         //emoji: "📜",
       },
-      /**{
-        label: "ناشطين عن القضيه",
-        value: "activists",
-        description: "عرض جميع الناشطين عن القضيه",
-        //emoji: "📜",
-      },
-      {
-        label: "مشاهير",
-        value: "famous",
-        description: "مشاهير تحدثوا عن القضيه",
-        //emoji: "📜",
-      },*/
       {
         label: "مقاطع فيديو",
         value: "videos",
         description: "وثائقي , يوتيوب فيديو, افلام , مقابلات.",
         //emoji: "📜",
       },
-      /** 
-      {
-        label: "صور فلسطين",
-        value: "image",
-        description: "السجل المجمع من صور فسطين في جميع عصورها",
-        //emoji: "📜",
-      },
-      {
-        label: "تبرع",
-        value: "donation",
-        description: "جميع طرق التبرع.",
-        //emoji: "📜",
-      },
-      {
-        label: "سجل الارقام",
-        value: "lang_numbers",
-        description: "فالنعبر باللغه الارقام",
-        //emoji: "📜",
-      },*/
     ]);
 const main = new MessageActionRow().setComponents(mainSelect);
 const historySelect =   new MessageSelectMenu()
@@ -80,8 +48,8 @@ const videosSelect =   new MessageSelectMenu()
     .setPlaceholder("اختر شئ لرأيته")
     .setOptions([
       {
-        label: "مقابلات",
-        value: "vid1",
+        label: "التاريخ الشفوي الفلسطيني",
+        value: main.id,
         description: "مقابلات مجمعه علي مر السنين للفلسطينين",
         //emoji: "📜",
       },

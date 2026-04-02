@@ -29,9 +29,9 @@ class PalesCo extends DataPaleCo {
         return goveArm(value, user);
       },
       /**
-       * @typedef {'1947/1/1'} PalesCoFormat
+       * @typedef {'1947/1/1'} PalesCoFormatDate
        * @typedef {'12:00'} PalesCoFormatTime
-       * @param {PalesCoFormat} format - YYYY/MM/DD
+       * @param {PalesCoFormatDate} format - YYYY/MM/DD
        * @param {PalesCoFormatTime} [time] - HH:MM
        * @returns {import("../types/index.ts").Timetamps}
        */
@@ -39,12 +39,12 @@ class PalesCo extends DataPaleCo {
         return createDiscordTimestamps(format, time);
       },
       /**
-       * @param {string} customId 
+       * @param {string} customId
        * @returns {import("../types/index").CustomId}
        */
       customId(customId) {
-return paresCustomId(customId)
-      }
+        return paresCustomId(customId);
+      },
     };
   }
 }
